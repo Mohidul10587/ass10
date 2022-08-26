@@ -1,0 +1,56 @@
+[
+    {
+        "id": 9,
+        "serviceName": "Complete exams, x-rays, and dental cleanings",
+        "img": "dentist.webp",
+        "description": "A root canal filling is a way of keeping a tooth, once the live part (the pulp) has become irreversibly damaged. The pulp is a mixture of nerve fibres and tiny blood vessels that can become very inflamed (giving tooth ache) or die off (causing an abscess)."
+    },
+    {
+        "id": 8,
+        "serviceName": "Fillings, root canals, and extractions",
+        "img": "dentist.webp",
+        "description": "It is important to discuss your dental cleaning options with your dentist, and having an understanding of the different types can be useful."
+    },
+    {
+        "id": 7,
+        "serviceName": "Cosmetic dentistry, such as whitening, porcelain and composite veneers",
+        "img": "dentist.webp",
+        "description": "this is a description"
+    },
+    {
+        "id": 2,
+        "serviceName": "Implants - placement and restoration",
+        "img": "dentist.webp",
+        "description": "It is important to discuss your dental cleaning options with your dentist, and having an understanding of the different types can be useful."
+    },
+    {
+        "id": 3,
+        "serviceName": "Crowns, bridges, full and partial dentures",
+        "img": "dentist.webp",
+        "description": "A root canal filling is a way of keeping a tooth, once the live part (the pulp) has become irreversibly damaged. The pulp is a mixture of nerve fibres and tiny blood vessels that can become very inflamed (giving tooth ache) or die off (causing an abscess)."
+    },
+    {
+        "id": 22,
+        "serviceName": "Implants",
+        "img": "dentist.webp",
+        "description": "It is important to discuss your dental cleaning options with your dentist, and having an understanding of the different types can be useful."
+    },
+    {
+        "id": 18,
+        "serviceName": "Orthodontics",
+        "img": "dentist.webp",
+        "description": "A root canal filling is a way of keeping a tooth, once the live part (the pulp) has become irreversibly damaged. The pulp is a mixture of nerve fibres and tiny blood vessels that can become very inflamed (giving tooth ache) or die off (causing an abscess)."
+    },
+    {
+        "id": 15,
+        "serviceName": "Crowns, bridges, full and partial dentures",
+        "img": "dentist.webp",
+        "description": "It is important to discuss your dental cleaning options with your dentist, and having an understanding of the different types can be useful."
+    },
+    {
+        "id": 4,
+        "serviceName": "Preventive care, periodontal therapy, and nutritional counseling",
+        "img": "dentist.webp",
+        "description": "It is important to discuss your dental cleaning options with your dentist, and having an understanding of the different types can be useful."
+    }
+]
