@@ -28,7 +28,7 @@ if(user){
     signInWithEmailAndPassword(email,password)
   }
   return (
-    <div>
+    <div className=' h-[580px] '>
       <h1 className='text-center text-3xl font-bold my-4'>Log IN</h1>
      <div className='flex justify-center'>
      <form onSubmit={handleSubmitLogIn} >
