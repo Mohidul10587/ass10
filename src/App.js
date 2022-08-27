@@ -7,7 +7,8 @@ import SignUp from './components/SignUp';
 import Blog from './components/Blog';
 import { Routes, Route } from "react-router-dom";
 import LogIn from './components/LogIn';
-import Checkout from './components/ProceedCheckout';
+import Proceed from './components/Proceed';
+import ProceedCheckout from './components/ProceedCheckout';
 
 
 
@@ -25,7 +26,9 @@ function App() {
         <Route path='/Blog' element={<Blog></Blog>}></Route>
         <Route path='/LogIn' element={<LogIn></LogIn>}></Route>
         <Route path='/SignUp' element={<SignUp></SignUp>}></Route>
-        <Route path='/Checkout' element={<Checkout></Checkout>}></Route>
+        <Route path='/Proceed' element={<Proceed></Proceed>}></Route>
+        <Route path='/ProceedCheckout' element={<ProceedCheckout></ProceedCheckout>}></Route>
+
 
       </Routes>
 

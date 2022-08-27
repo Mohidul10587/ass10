@@ -1,16 +1,13 @@
 
 import React from 'react'
-import { Link } from 'react-router-dom';
+
 
 export default function ProceedCheckout() {
     return (
-        <div>
-            <div>ProceedCheckout</div>
+        <div className=' flex justify-center items-center h-[580px] '>
+            <div className='text-4xl font-bold'>This page is restricted</div>
 
-            <Link>
-
-                <button> Go to checkout page</button>
-            </Link>
+           
 
 
         </div>
