@@ -10,7 +10,7 @@ export default function SignUp() {
 
   const [
     createUserWithEmailAndPassword,
-    user, error
+    user
 
   ] = useCreateUserWithEmailAndPassword(auth);
 
@@ -18,6 +18,10 @@ export default function SignUp() {
     e.preventDefault()
     const email = e.target.email.value;
     const password = e.target.password.value
+    if(password.length < 6){
+      alert('Please give at least 6 characters in the password field')
+      return ;
+    }
     createUserWithEmailAndPassword(email, password)
   }
 

@@ -9,7 +9,9 @@ const Header = () => {
             <Link className='md:mx-4 mx-2 hover:text-orange-200 font-bold text-white' to='/'>HOME</Link>
             <Link className='md:mx-4 mx-2 hover:text-orange-200 font-bold text-white' to='/Blog'>BLOG</Link>
             <Link className='md:mx-4 mx-2 hover:text-orange-200 font-bold text-white' to='/Login'>lOG IN</Link>
-            <Link className='md:mx-4 mx-2 hover:text-orange-200 font-bold text-white' to='/SignUp'>SIGN UP</Link>
+            <Link className='md:mx-4 mx-2 hover:text-orange-200 font-bold text-white' to='/Checkout'>lOG IN</Link>
+
+        
            
         </div>
     );
